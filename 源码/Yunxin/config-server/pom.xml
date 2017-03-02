@@ -7,10 +7,7 @@
     <groupId>com.yunxin</groupId>
     <artifactId>config-server</artifactId>
     <version>0.0.1</version>
-    <modules>
-        <module>..</module>
-    </modules>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
